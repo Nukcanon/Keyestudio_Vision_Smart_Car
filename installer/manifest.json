@@ -1,0 +1,12 @@
+{
+  "name": "Keyestudio_Vision_Smart_Car",
+  "new_install_prompt_erase": false,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "parts": [
+        { "path": "Keyestudio_Vision_Smart_Car.bin", "offset": 0 }
+      ]
+    }
+  ]
+}
